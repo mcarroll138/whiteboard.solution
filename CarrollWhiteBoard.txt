@@ -1,0 +1,14 @@
+This is what was written on my white board solution:
+
+
+const inputArray = [7, 9, "hi", 12, "hi", 7, 53]
+expected output = [7, 9, "hi", 12, 53]
+
+function removeDuplicates(inputArray) {
+    let newArray = [];
+    for(let i = 0; i < inputArray.length; i++)
+    if(inputArray[i].indexOf === -1) {
+        push.newArray
+    }
+    return newArray;
+}
